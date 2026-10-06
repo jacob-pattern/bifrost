@@ -5467,6 +5467,12 @@
                 "type": "string"
               }
             },
+            "objectStorageExcludeRequestTypes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
             "objectStorage": {
               "type": "object",
               "properties": {
